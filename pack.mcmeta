@@ -1,0 +1,7 @@
+{
+  "pack": {
+  	"--comment": "Generated using Brecerts Datapack toolset",
+    "description": "Random additions to minecraft that fit the theme of the game",
+    "pack_format": 4
+  }
+}

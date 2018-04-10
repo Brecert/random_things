@@ -1,0 +1,1 @@
+scoreboard objectives add rt.rd.random minecraft.custom:minecraft.play_one_minute

@@ -1,0 +1,1 @@
+team add rt.rd.changed Has the mob nbt been changed?
